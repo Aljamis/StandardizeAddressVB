@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+StandardizeAddressVB
+</name>
+</assembly>
+<members>
+<member name="P:StandardizeAddressVB.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:StandardizeAddressVB.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:StandardizeAddressVB.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:StandardizeAddressVB.AddrService.StandardizeAddressService.#ctor">
+	<remarks/>
+</member><member name="E:StandardizeAddressVB.AddrService.StandardizeAddressService.getVersionCompleted">
+	<remarks/>
+</member><member name="E:StandardizeAddressVB.AddrService.StandardizeAddressService.checkAddressCompleted">
+	<remarks/>
+</member><member name="M:StandardizeAddressVB.AddrService.StandardizeAddressService.getVersion">
+	<remarks/>
+</member><member name="M:StandardizeAddressVB.AddrService.StandardizeAddressService.getVersionAsync">
+	<remarks/>
+</member><member name="M:StandardizeAddressVB.AddrService.StandardizeAddressService.getVersionAsync(System.Object)">
+	<remarks/>
+</member><member name="M:StandardizeAddressVB.AddrService.StandardizeAddressService.checkAddress(StandardizeAddressVB.AddrService.CDQpAddressTO)">
+	<remarks/>
+</member><member name="M:StandardizeAddressVB.AddrService.StandardizeAddressService.checkAddressAsync(StandardizeAddressVB.AddrService.CDQpAddressTO)">
+	<remarks/>
+</member><member name="M:StandardizeAddressVB.AddrService.StandardizeAddressService.checkAddressAsync(StandardizeAddressVB.AddrService.CDQpAddressTO,System.Object)">
+	<remarks/>
+</member><member name="M:StandardizeAddressVB.AddrService.StandardizeAddressService.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:StandardizeAddressVB.AddrService.StandardizeAddressService">
+	<remarks/>
+</member><member name="T:StandardizeAddressVB.AddrService.CDQpAddressTO">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.CDQpAddress.Addr1">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.CDQpAddress.Addr2">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.CDQpAddress.Addr3">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.CDQpAddress.Addr4">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.CDQpAddress.City">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.CDQpAddress.Country">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.CDQpAddress.State">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.CDQpAddress.Zip">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.CDQpAddress.ZipPlus4">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.CDQpAddress.County">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.CDQpAddress.Confidence">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.CDQpAddress.CountyFIPS">
+	<remarks/>
+</member><member name="T:StandardizeAddressVB.AddrService.CDQpAddress">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.AddrResponse.Addresses">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.AddrResponse.Success">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.AddrResponse.FailureDesc">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.AddrResponse.Scrubbed">
+	<remarks/>
+</member><member name="T:StandardizeAddressVB.AddrService.AddrResponse">
+	<remarks/>
+</member><member name="T:StandardizeAddressVB.AddrService.getVersionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.getVersionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:StandardizeAddressVB.AddrService.getVersionCompletedEventArgs">
+	<remarks/>
+</member><member name="T:StandardizeAddressVB.AddrService.checkAddressCompletedEventHandler">
+	<remarks/>
+</member><member name="P:StandardizeAddressVB.AddrService.checkAddressCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:StandardizeAddressVB.AddrService.checkAddressCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

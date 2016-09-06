@@ -1,0 +1,10 @@
+S:\EE\Users\axviareq\VS_2010\StandardizeAddressVB\StandardizeAddressVB\StandardizeAddressVB\bin\Debug\StandardizeAddressVB.exe
+S:\EE\Users\axviareq\VS_2010\StandardizeAddressVB\StandardizeAddressVB\StandardizeAddressVB\bin\Debug\StandardizeAddressVB.pdb
+S:\EE\Users\axviareq\VS_2010\StandardizeAddressVB\StandardizeAddressVB\StandardizeAddressVB\bin\Debug\StandardizeAddressVB.xml
+S:\EE\Users\axviareq\VS_2010\StandardizeAddressVB\StandardizeAddressVB\StandardizeAddressVB\obj\x86\Debug\StandardizeAddressVB.Form1.resources
+S:\EE\Users\axviareq\VS_2010\StandardizeAddressVB\StandardizeAddressVB\StandardizeAddressVB\obj\x86\Debug\StandardizeAddressVB.Resources.resources
+S:\EE\Users\axviareq\VS_2010\StandardizeAddressVB\StandardizeAddressVB\StandardizeAddressVB\obj\x86\Debug\StandardizeAddressVB.vbproj.GenerateResource.Cache
+S:\EE\Users\axviareq\VS_2010\StandardizeAddressVB\StandardizeAddressVB\StandardizeAddressVB\obj\x86\Debug\StandardizeAddressVB.exe
+S:\EE\Users\axviareq\VS_2010\StandardizeAddressVB\StandardizeAddressVB\StandardizeAddressVB\obj\x86\Debug\StandardizeAddressVB.xml
+S:\EE\Users\axviareq\VS_2010\StandardizeAddressVB\StandardizeAddressVB\StandardizeAddressVB\obj\x86\Debug\StandardizeAddressVB.pdb
+S:\EE\Users\axviareq\VS_2010\StandardizeAddressVB\StandardizeAddressVB\StandardizeAddressVB\bin\Debug\StandardizeAddressVB.exe.config
